@@ -3,7 +3,7 @@
 - scan image of flyer and look for artist names as text
 - generate a see through button on top of text
 - create a link on button to artist music on **the Player** of choice from the user
-  > **the Players: (more out there)** SoundCloud, Slacker Radio, Spotify, Amazon Music Unlimited (Prime Music), Apple Music, Deezer, Tidal, Google Play Music Store, iHeartRadio, Pandora
+  > **the Players: (more out there)** SoundCloud, Slacker Radio, Spotify, Amazon Music Unlimited (Prime Music), Apple Music, Deezer, Tidal, Google Play Music Store, iHeartRadio, Pandora, Youtube Music
 
 # Stretch Goals
 
